@@ -26,5 +26,6 @@ Tap Screen
 
 蘭嶼當地照片
 
-<img width="356" alt="image" src="https://github.com/user-attachments/assets/eb28be47-925e-4128-b081-ff0866c03015">
+<img width="356" alt="image" src="https://github.com/user-attachments/assets/2958f151-fd83-4840-99aa-5eb7e479237e">
+
 
