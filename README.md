@@ -17,10 +17,12 @@ Support Dark Mode
 
 AR DEMO
 
-![image](https://github.com/user-attachments/assets/98e50e8a-36d0-45de-9f0d-c60d50684ba5)
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/9bbf175b-4a0d-4604-8c2a-4998ac1afc96">
 
 
-![image](https://github.com/user-attachments/assets/c01071d8-7e22-4698-a206-e1603bd9a9e1)
+
+<img width="233" alt="image" src="https://github.com/user-attachments/assets/ae309216-ee41-4ae8-9666-88f66dd79a2d">
+
 
 
 
