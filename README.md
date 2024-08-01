@@ -11,11 +11,6 @@ https://tao.allaboutcoffee.app
 
 <img width="356" alt="image" src="https://github.com/user-attachments/assets/6a98d1f1-5ae9-4bce-886e-1a010b577550">
 
-蘭嶼當地照片
-
-<img width="427" alt="image" src="https://github.com/user-attachments/assets/eb28be47-925e-4128-b081-ff0866c03015">
-
-
 Support Dark Mode
 
 <img width="358" alt="image" src="https://github.com/user-attachments/assets/4c41d714-9453-4fde-8d49-f848eee38c24">
@@ -29,5 +24,7 @@ Tap Screen
 <img width="233" alt="image" src="https://github.com/user-attachments/assets/ae309216-ee41-4ae8-9666-88f66dd79a2d">
 
 
+蘭嶼當地照片
 
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/eb28be47-925e-4128-b081-ff0866c03015">
 
